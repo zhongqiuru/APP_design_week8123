@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿body {
   margin:0px;
   background-image:none;
@@ -12,3 +13,19 @@
   position:absolute;
   z-index:0;
 }
+=======
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:10px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+>>>>>>> cc2e11d6d3da277d61f59299938338ead75c9793
